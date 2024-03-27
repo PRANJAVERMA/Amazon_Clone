@@ -3,7 +3,7 @@ Here's a screenshot of what the project's first page looks like:
 <img src="https://github.com/PriyamvadaP/Amazon-Clone-HtmlCssJS/blob/main/images/Output-1.jpeg" alt="Amazon home page" />
 <img src="https://github.com/PriyamvadaP/Amazon-Clone-HtmlCssJS/blob/main/images/Output-2.jpeg" alt="Amazon home page" />
 <img src="src.png" alt="Amazon side menu page" />
-<img src="src.png" alt="Amazon side menu page" />
+<img src="out1.png" alt="Amazon side menu page" />
 
 ## Table of Contents
 
